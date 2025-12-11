@@ -6,7 +6,7 @@ license = "MIT"
 description = "A fast, colorful ChatGPT CLI for your terminal!"
 repository = "https://github.com/reidctl/term-gpt.git"
 readme = "README.md"
-categories = ["command-line-utilites", "text-processing"]
+categories = ["command-line-utilities", "text-processing"]
 keywords = ["chatgpt", "cli", "terminal", "ai"]
 
 [[bin]]
