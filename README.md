@@ -1,4 +1,4 @@
-# 🧠 gpt — A ChatGPT-powered CLI for Your Terminal
+# 🧠 term-gpt — A ChatGPT-powered CLI for Your Terminal
 
 **`term-gpt`** is a fast, colorful, file-aware ChatGPT client for your terminal.  
 It supports one-shot prompts, REPL mode, file context, and a custom assistant personality.
