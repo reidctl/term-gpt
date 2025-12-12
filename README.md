@@ -40,7 +40,7 @@ gpt -f src/main.rs "Explain what this code does."
 ### 1. Install 
 
 ```bash
-cargo install --git https://github.com/YOURNAME/gpt
+cargo install --git https://github.com/reidctl/term-gpt
 ```
 
 Or install through cargo:
